@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      定时器 你真的会使用吗？
@@ -11,7 +10,6 @@ tags:
     - iOS
     - 定时器
 ---
-```
 
 #                                         sqlmanp速查手册
 
