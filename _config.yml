@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
-SEOTitle: 希望的博客 | BY Blog
+title: think
+SEOTitle: 希望的博客 
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+description: "个人博客,记录个人成长历程"
 keyword: "BY, BY Blog, 希望的博客, qiubaiying, 希望, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "此处空白"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
