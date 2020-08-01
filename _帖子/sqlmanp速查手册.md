@@ -3,7 +3,7 @@ layout:     post
 title:      sqlmap
 subtitle:   sqlmap基础知识笔记
 date:       2020-8-1
-author:     BY
+author:     xiwang
 header-img: img/tag-bg-o.jpg
 catalog: true
 tags:
