@@ -1,5 +1,4 @@
 ---
-​---
 layout:     post
 title:      sqlmap
 subtitle:   sqlmap基础知识笔记
@@ -10,8 +9,6 @@ catalog: true
 tags:
     - sqlmap
     - sqlmanp
-​---
-
 ---
 
 #                                         sqlmanp速查手册
