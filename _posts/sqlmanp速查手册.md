@@ -4,7 +4,7 @@ layout:     post
 title:      sqlmap
 subtitle:   sqlmap基础知识笔记
 date:       2020-8-1
-author:     BY
+author:     xiwang
 header-img: img/tag-bg-o.jpg
 catalog: true
 tags:
@@ -13,8 +13,13 @@ tags:
 ​---
 
 ---
+<<<<<<< HEAD:_posts/sqlmanp速查手册.md
 
 #                                         >sqlmanp速查手册
+=======
+>
+#                                         sqlmanp速查手册
+>>>>>>> b2ce234c972db59b9690f81faf69e7c17f972bb1:_帖子/sqlmanp速查手册.md
 
 #### 常见步骤
 
